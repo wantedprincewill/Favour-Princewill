@@ -1,6 +1,6 @@
 Thanks for downloading!
 
-Name: Greg Resume
-Author: Greg Yezechiel
-Designed by: Greg Yezechiel (Ansobert)
+Name: Favour Princewill
+Author: Favour Princewill
+Designed by: Favour Princewill (Starlark)
 
